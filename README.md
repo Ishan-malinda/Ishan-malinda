@@ -22,7 +22,7 @@ I specialize in building high-performance desktop applications and modern web ex
 
 ---
 <p align="center">
-  <img src="./assests/snake.svg" width="2100" />
+  <img src="./snake.svg" width="2100" />
 </p>
 ---
 
