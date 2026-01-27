@@ -21,6 +21,10 @@ I specialize in building high-performance desktop applications and modern web ex
 | **Tools** | Git, GitHub, VS Code, PowerShell |
 
 ---
+<p align="center">
+  <img src="./assests/snake.svg" width="2100" />
+</p>
+---
 
 ### 📊 My GitHub Stats
 <p align="left">
