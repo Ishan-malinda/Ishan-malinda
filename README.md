@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ishan Malinda!
 
-# 💫 About Me:
 Software Engineering undergraduate passionate about building impactful, scalable, and efficient software.
 
 ---
