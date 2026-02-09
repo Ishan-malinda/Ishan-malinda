@@ -27,6 +27,9 @@ Software Engineering undergraduate passionate about building impactful, scalable
 - 📧 **Email:** ishanmalindhaims@gmail.com
 
 ---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
 
 <!--
 **Ishan-malinda/Ishan-malinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
