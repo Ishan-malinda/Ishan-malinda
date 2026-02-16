@@ -22,7 +22,7 @@ const Ishan Malinda = {
                   "Backend Architecture & RESTful APIs",
                   "Database Design & Optimization" ],
 
-    lifePhilosophy: "I don't want to just code. I build that is efficient and built to last:)"
+    lifePhilosophy: "I don't want to just code. I build softwere that is efficient and built to last:)"
 };
 ```
 
