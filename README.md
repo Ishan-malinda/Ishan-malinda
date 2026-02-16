@@ -5,7 +5,7 @@ I’m a  <code>Full Stack Developer</code> & who lives for the "big picture." Wh
 <p align="center">
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,python,bash,js,ts,react,express,electron,github,graphql,nodejs,mysql,postgres,mongodb,aws" />
+    <img src="https://skillicons.dev/icons?i=java,idea,python,bash,js,ts,react,express,electron,github,graphql,nodejs,mysql,postgres,mongodb" />
   </a>
   <br>
 </p>
@@ -31,10 +31,10 @@ const Ishan Malinda = {
 
 
 <p align="center">
-  <img src="./assests/snake.svg" width="2100" />
+  <img src="./snake.svg" width="2100" />
 </p>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ishan-malinda&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ishan-malinda&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-malinda&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
