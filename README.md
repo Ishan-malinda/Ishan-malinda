@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="300" src="assests/one.gif"  />
+<img align="right" height="300" src="one.gif"  />
 
 ###
 
@@ -37,7 +37,7 @@ const Ishan Malinda = {
 ```
 
 <p align="center">
-  <img src="./assests/snake.svg" width="2100" />
+  <img src=".snake.svg" width="2100" />
 </p>
 
 ###
