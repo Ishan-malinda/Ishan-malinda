@@ -37,7 +37,7 @@ const Ishan Malinda = {
 ```
 
 <p align="center">
-  <img src=".snake.svg" width="2100" />
+  <img src="snake.svg" width="2100" />
 </p>
 
 ###
