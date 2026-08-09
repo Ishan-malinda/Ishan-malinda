@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-I’m a  <code>Full Stack Developer</code> & who lives for the "big picture." While I love shipping clean code, my real passion lies in software architecture designing the systems, data flows and structures that make applications actually work at scale..<br><br>When I’m not shipping code, you’ll find me:<br>🔹 seeking programming concepts on **YouTube**<br>🔹 Solving **LeetCode** problems to sharpen my fundamentals<br>🔹 Exploring system design, performance and backend architecture<br><br>I care deeply about code quality, scalability and real-world impact.<br>
+I’m a  <code>Full Stack Developer</code> & who lives for the "big picture." While I love shipping clean code, my real passion lies in software architecture designing the systems, data flows and structures that make applications actually work at scale..<br><br>When I’m not shipping code, you’ll find me:<br>🔹 seeking programming concepts on YouTube <br>🔹 Solving **LeetCode** problems to sharpen my fundamentals<br>🔹 Exploring system design, performance and backend architecture<br><br>I care deeply about code quality, scalability and real-world impact.<br>
 </p>
 
 ###
